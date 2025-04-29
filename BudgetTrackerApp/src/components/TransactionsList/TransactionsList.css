@@ -1,0 +1,25 @@
+.transactions-list {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .transaction {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background: #f1f5f9;
+    align-items: center;
+  }
+  
+  .transaction button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
